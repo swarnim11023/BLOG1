@@ -8,3 +8,5 @@ Pictures for blog
 ![Uploading Graph (2).png…]()
 ![Graph (7)](https://github.com/user-attachments/assets/d2093f08-b680-4943-b76d-7a8dfb7575b0)
 ![Graph (6)](https://github.com/user-attachments/assets/11471a87-33eb-4556-9231-5a53ed1aa80d)
+![Graph (5)](https://github.com/user-attachments/assets/db339c93-c74d-42b2-a3f9-0976d5f0475d)
+![Graph (4)](https://github.com/user-attachments/assets/03185bdb-e02d-4271-a400-35b0f828a241)
