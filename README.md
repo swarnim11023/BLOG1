@@ -5,3 +5,4 @@ Pictures for blog
 
 
 ![Graph (1)](https://github.com/user-attachments/assets/f76d0c38-0dc6-4aee-bed4-2f11c78b62b6)
+![Uploading Graph (2).png…]()
