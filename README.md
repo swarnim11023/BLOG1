@@ -12,3 +12,6 @@ Pictures for blog
 ![Graph (4)](https://github.com/user-attachments/assets/03185bdb-e02d-4271-a400-35b0f828a241)
 ![Graph (2)](https://github.com/user-attachments/assets/bdd688ab-5e3c-4098-9682-bf1385418091)
 
+![Graph (10)](https://github.com/user-attachments/assets/f72bf927-66ef-416e-aa00-4f4d89f12bfa)
+![Graph (9)](https://github.com/user-attachments/assets/3c0e21e4-d2ac-4deb-b42c-0a425e7b5447)
+![Graph (8)](https://github.com/user-attachments/assets/a259b996-daae-4836-a751-18b5d5144ebb)
